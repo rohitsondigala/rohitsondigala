@@ -1,9 +1,7 @@
-<center>
-
-## Hi there, <br> It's Rohit Sondigala! 👋
-### Full Stack Developer | Innovator | Tech Enthusiast
-
-</center>
+<p align="center">
+<h2>Hi there, <br> It's Rohit Sondigala! 👋</h2>
+<h3> Full Stack Developer | Innovator | Tech Enthusiast </h3>
+</p>
 
 Passionate about leveraging technology to drive innovation and create impactful solutions. Excited about building intuitive applications and exploring new technologies.
 
