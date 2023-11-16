@@ -1,4 +1,4 @@
-<h2 align="center" dir="auto">Hi there 👋, <br> It's Rohit Sondigala!</h2>
+<h2 align="center" dir="auto">Hi there 👋, <br> <h3>It's Rohit Sondigala!</h3></h2>
 <h3 align="center" dir="auto">Full Stack Developer | Innovator | Tech Enthusiast</h3>
 
 Passionate about leveraging technology to drive innovation and create impactful solutions. Excited about building intuitive applications and exploring new technologies.
