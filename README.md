@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rs-logo-lime.svg">
-  <img src="assets/rs-logo-purple.svg" alt="RS logo" width="140">
-</picture>
+<img src="assets/rs-logo-purple.svg" alt="RS logo" width="140">
 
 # Rohit Sondigala
 
@@ -13,6 +10,7 @@
 
 📍 Ahmedabad, India
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=flat-square&logo=netlify&logoColor=white)](https://rohitsondigala.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sondigala/)
 [![X](https://img.shields.io/badge/@rohit__sondigala-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/rohit_sondigala)
 
@@ -24,7 +22,6 @@
 
 - Software Developer at **Logicrays Technologies** (Jan 2025 – present); previously WebMob Technologies and Sumay Infotech.
 - I design REST and GraphQL APIs, role-based access control, multi-tenant architectures and optimized database schemas.
-- Domains I've shipped in: healthcare, applicant tracking, project management, e-commerce, communication and booking.
 - Currently working on AI integrations (OpenAI, Gemini, Anthropic) and AWS deployments.
 
 ### Tech stack
@@ -51,31 +48,22 @@
 
 Also: CodeIgniter, Livewire, FilamentPHP, Stripe, Razorpay, PayPal, Twilio, WebSockets, CI/CD.
 
-### Selected work
+### Domains I've worked in
 
-Client projects, so the code is private. Here is what I built.
-
-| Project | What I did | Stack |
-| --- | --- | --- |
-| **ATS platform** | Backend APIs for resume builder, candidate management and recruitment workflows, with RBAC | Laravel, MySQL |
-| **WhatsApp campaign platform** | Multi-client broadcasting with scheduling, delivery tracking and automated notifications | WhatsApp (Meta) API, Firebase |
-| **Online healthcare platform** | APIs and admin dashboards for appointments and consultations, with real-time audio/video calls | Laravel, Twilio |
-| **Project management SaaS** | Multi-tenant B2B platform with time tracking, activity monitoring and tenant isolation | Laravel, PostgreSQL |
-| **E-commerce platform** | Admin panels, GraphQL/REST APIs, payments and inventory management | Laravel, Stripe, MySQL |
-| **Real-time communication app** | Audio/video calling, live chat and notifications | WebSockets, Twilio, Firebase |
-
-### Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Software Developer | Logicrays Technologies | Jan 2025 – Present |
-| Software Developer | WebMob Technologies | Dec 2023 – Jan 2025 |
-| Software Developer | Sumay Infotech | Jun 2022 – Nov 2023 |
+| Domain | What I built |
+| --- | --- |
+| 🏥 **Healthcare** | Appointment and consultation APIs, admin dashboards, real-time audio/video calling |
+| 🧑‍💼 **Recruitment (ATS)** | Resume builder, candidate management and recruitment workflows with RBAC |
+| 📊 **Project management** | Multi-tenant B2B SaaS with time tracking, activity monitoring and tenant isolation |
+| 🛒 **E-commerce** | Admin panels, GraphQL/REST APIs, payment integrations, inventory management |
+| 💬 **Communication** | WhatsApp broadcast and campaign platform, live chat, notifications, audio/video calls |
+| 📅 **Booking** | Booking platforms and scheduling workflows |
+| 🎓 **EdTech, IoT & government** | Learning systems, IoT dashboards, government portals, legacy modernization |
 
 ---
 
 <div align="center">
 
-Open to interesting backend and full stack work. Reach me on [LinkedIn](https://www.linkedin.com/in/rohit-sondigala/).
+Open to interesting backend and full stack work. See my [portfolio](https://rohitsondigala.netlify.app/) or reach me on [LinkedIn](https://www.linkedin.com/in/rohit-sondigala/).
 
 </div>
