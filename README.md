@@ -1,57 +1,81 @@
-<h2 align="center" dir="auto">Hello 👋, It's Rohit Sondigala!</h3>
-<h4 align="center" dir="auto">Full Stack Developer | Innovator | Tech Enthusiast</h3>
+<div align="center">
 
-Passionate about leveraging technology to drive innovation and create impactful solutions. Excited about building intuitive applications and exploring new technologies.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rs-logo-lime.svg">
+  <img src="assets/rs-logo-purple.svg" alt="RS logo" width="140">
+</picture>
 
+# Rohit Sondigala
 
-🚀 **Skills and Technologies:**
-- Frontend: HTML, CSS, JavaScript, JQuery, ReactJS, VueJS
-- Backend: Node.js, Laravel, PHP, MongoDB, MySQL
-- Other: Figma, AdobeXD
+**Full Stack Developer · Laravel · Node.js · React**
 
-<br>
+4.5+ years building SaaS platforms, APIs and real-time systems for international clients.
 
-💡 **Current Focus:**
-Currently exploring Advance Php & NodeJS Concepts and Forntend Optimizations.
+📍 Ahmedabad, India
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sondigala/)
+[![X](https://img.shields.io/badge/@rohit__sondigala-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/rohit_sondigala)
 
-📫 **Get in touch:**
-- LinkedIn: [Rohit Sondigala](https://www.linkedin.com/in/rohit-sondigala/)
-- Twitter: [@rohit_sondigala](https://twitter.com/rohit_sondigala)
+</div>
 
-<br>
-  
-👨‍💻 **Worked with Languages, Frameworks & Libraries**  
-<br>
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-[![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+---
 
-[![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+### About
 
-[![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://getcomposer.org/)
-[![axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-[![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
+- Software Developer at **Logicrays Technologies** (Jan 2025 – present); previously WebMob Technologies and Sumay Infotech.
+- I design REST and GraphQL APIs, role-based access control, multi-tenant architectures and optimized database schemas.
+- Domains I've shipped in: healthcare, applicant tracking, project management, e-commerce, communication and booking.
+- Currently working on AI integrations (OpenAI, Gemini, Anthropic) and AWS deployments.
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+### Tech stack
 
-<br>
-Let's connect and collaborate on exciting projects! ✨
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql" alt="PHP, Laravel, Node.js, Express, GraphQL" height="44">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,react,vue,nextjs,tailwind" alt="JavaScript, React, Vue, Next.js, Tailwind CSS" height="44">
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" alt="MySQL, PostgreSQL, MongoDB, SQLite, Firebase" height="44">
+
+**Cloud & tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman" alt="AWS, Docker, Linux, Git, Postman" height="44">
+
+</div>
+
+Also: CodeIgniter, Livewire, FilamentPHP, Stripe, Razorpay, PayPal, Twilio, WebSockets, CI/CD.
+
+### Selected work
+
+Client projects, so the code is private. Here is what I built.
+
+| Project | What I did | Stack |
+| --- | --- | --- |
+| **ATS platform** | Backend APIs for resume builder, candidate management and recruitment workflows, with RBAC | Laravel, MySQL |
+| **WhatsApp campaign platform** | Multi-client broadcasting with scheduling, delivery tracking and automated notifications | WhatsApp (Meta) API, Firebase |
+| **Online healthcare platform** | APIs and admin dashboards for appointments and consultations, with real-time audio/video calls | Laravel, Twilio |
+| **Project management SaaS** | Multi-tenant B2B platform with time tracking, activity monitoring and tenant isolation | Laravel, PostgreSQL |
+| **E-commerce platform** | Admin panels, GraphQL/REST APIs, payments and inventory management | Laravel, Stripe, MySQL |
+| **Real-time communication app** | Audio/video calling, live chat and notifications | WebSockets, Twilio, Firebase |
+
+### Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Software Developer | Logicrays Technologies | Jan 2025 – Present |
+| Software Developer | WebMob Technologies | Dec 2023 – Jan 2025 |
+| Software Developer | Sumay Infotech | Jun 2022 – Nov 2023 |
+
+---
+
+<div align="center">
+
+Open to interesting backend and full stack work. Reach me on [LinkedIn](https://www.linkedin.com/in/rohit-sondigala/).
+
+</div>
